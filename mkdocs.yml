@@ -1,1 +1,5 @@
+theme:
+  name: readthedocs
+
+
 site_name: My Docs
